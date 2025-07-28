@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently looking for **frontend developer job**
 
-- 👨‍💻 All of my projects are available at [portfolio-website](https://ashishkumarkhatri.com.np)
+- 👨‍💻 All of my projects are available at [portfolio-website](https://macad.dev)
 
 - 📫 How to reach me **macad626@gmail.com**
 
